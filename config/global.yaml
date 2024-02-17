@@ -1,0 +1,4 @@
+autoloader:
+  paths:
+    root: src
+    commands: src/Command
